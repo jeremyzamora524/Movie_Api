@@ -1,0 +1,5 @@
+{"_id":{"$oid":"626c59daa16c9a8618b2a08f"},"Username":"xXDarkRazorXx ","Password":"W1re34 ","Email":"Alexx34@gmail.com ","Birthday":"2004-05-25 ","FavoriteMovies":[]}
+{"_id":{"$oid":"626c667e6b3518a333344678"},"Username":"Topboyz","Password":"secretsonly@gmail.com ","Email":"OnTopBoyyy@gmail.com ","Birthday":"08/1/1959 ","FavoriteMovies":[]}
+{"_id":{"$oid":"626c668a6b3518a333344679"},"Username":"RoadMan85","Password":"SnatchedOnit ","Email":"RoadMan85@gmail.com ","Birthday":"05/12/2002 ","FavoriteMovies":[]}
+{"_id":{"$oid":"62717191209749656b43142c"},"Username":"thegreatpapyrus","Password":"spagetti","Email":"the_great_papayrusgmail.com","Birthday":{"$date":{"$numberLong":"-438048000000"}},"FavoriteMovies":[],"__v":0}
+{"_id":{"$oid":"62717466209749656b431430"},"Username":"thegreatpapyrus","Password":"spagetti","Email":"the_great_papayrusgmail.com","Birthday":{"$date":{"$numberLong":"-438048000000"}},"FavoriteMovies":[],"__v":0}
