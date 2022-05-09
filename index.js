@@ -268,7 +268,7 @@ app.delete('/users/:Username', passport.authenticate('jwt', { session: false }),
 });
 
 app.get('/', (req, res) => {
-    res.sendFile('public/documentation.html', { root: __dirname });
+    res.send("Welcome to myFlix")
 })
 
 // error handling
